@@ -4,7 +4,8 @@ The Panel Gallery is an interactive web project that presents a visually engagin
 
 ## Live Demo
 
-<img src="https://github.com/MiroslavMali/Panel-Gallery/assets/68731924/ea536053-3010-47b1-ad3d-62617004075b" width="600" alt="Expanding Cards">
+<img src="https://github.com/MiroslavMali/Panel-Gallery/assets/68731924/a22b4cff-bd30-4168-ac48-b0868b6a89be" width="600" alt="Expanding Cards">
+
 
 ## Features
 
